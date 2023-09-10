@@ -136,3 +136,6 @@ some online articles that identify what makes "quality" code.
 
   - Testing of a code repeatedly, quality of a code and maintainance of the code plays a really big role everytime in code quality as we have seen this in all      the articles. In every article this above points which I mentioned are almost similar.
 
+## Evaluation:
+
+  - Evaluating my work on a 4 point scale, I rate myself with exemplary work. I spent almost one fourth of my day for it as it was staring of the course and I wanted to start on a good knot. It felt really good working and honestly did a good hard work for this article. Happy and highly satisfied.
