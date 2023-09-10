@@ -30,4 +30,35 @@ some online articles that identify what makes "quality" code.
   - Look into more metrics and personalised rules using the Measures tab.
   - Develop action plans to address concerns that have been identified.
 
+# [Article 2:How to Improve Your Code Quality Skills in Information Technology](https://www.linkedin.com/advice/0/how-do-you-improve-your-code-quality-skills-information-technology)
+
+  ## Writing Clean and Simple Code:
+
+  - Give variable, function, and class names that are meaningful and descriptive.
+  - Create concise, well-defined functions that adhere to the "Single Responsibility Principle."
+  - Keep your code free of extraneous complexity, repetition, and ambiguity.
+  - Use nested, lengthy conditional statements and loops as little as possible.
+  - Explain the logic and function of your code through comments and documentation.
+  - Regularly rework code to reduce duplication and enhance readability.
+ 
+## Testing Your Code:
+
+  - Use unit testing to evaluate distinct parts or functionalities.
+  - Run integration tests to ensure that various parts or functions perform as a unit.
+  - Perform system testing to assess the entire application or system as a whole.
+  - Incorporate user testing to make sure the system satisfies user expectations and requirements.
+  - Automate and simplify your testing process using appropriate testing tools and frameworks.
+
+## Using a Coding Standard:
+
+   -  Choose or adopt a coding standard that suits your programming language.
+   -  Configure tools like [linters](https://www.npmjs.com/package/eslint), [code formatters](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) , or code analyzers to automatically check and enforce your coding standard.
+   -  Regularly review and update your coding standard as needed.
+    
+## Reviewing Your Code Regularly:
+
+  - Conduct self-review by inspecting your own code before submitting it to others or deploying it to production.
+  - Engage in peer review by reviewing the code of colleagues or teammates and providing constructive feedback and recommendations.
+  - Utilize code review tools like [GitHub](https://desktop.github.com/), GitLab, or Bitbucket to streamline and automate aspects of the review process.
+
 
