@@ -132,3 +132,7 @@ some online articles that identify what makes "quality" code.
   - Utilise these technologies to make code review procedures more efficient.
 
 
+## comaparison:
+
+  - Testing of a code repeatedly, quality of a code and maintainance of the code plays a really big role everytime in code quality as we have seen this in all      the articles. In every article this above points which I mentioned are almost similar.
+
