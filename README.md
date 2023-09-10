@@ -61,4 +61,42 @@ some online articles that identify what makes "quality" code.
   - Engage in peer review by reviewing the code of colleagues or teammates and providing constructive feedback and recommendations.
   - Utilize code review tools like [GitHub](https://desktop.github.com/), GitLab, or Bitbucket to streamline and automate aspects of the review process.
 
+# [Article 3: PHP Code Quality Tools to Check and Improve your Code](https://thevaluable.dev/code-quality-check-tools-php/)
+
+## Code Quality:
+
+  - Use PHP CodeSniffer to find coding standards breaches (https://sourceforge.net/projects/php-codesniffer.mirror).
+  - To automatically correct some of the code standards problems, use PHPCBF.
+  - Take note of elements like typical class and method lengths.
+  - Save abstraction for certain cases only.
+
+## Complexity and Bugs:
+
+  - Examine the intricacy of the code using tools such as PHP Mess Detector.
+  - Address problems like cyclomatic complexity that is too high.
+  - To find mistakes and confirm that the code is accurate, use PHPStan for static analysis.
+  - Set the strictness level in accordance with the demands of your project.
+
+## Coding Formatting:
+
+  - To preserve code uniformity, use a coding standard.
+  - Use coding standards-compliant code formatting tools, such as PHP-CS-Fixer, to format your code automatically.
+  - To guarantee consistency, format your code frequently.
+
+## Unit Testing and Code Coverage:
+
+  - Put your codebase's unit tests into practise.
+  - For unit testing, use PHPUnit.
+  - Calculate and examine the CRAP metric to spot dangerous and complicated code.
+  - Check the code coverage of your tests to make sure it is adequate.
+  - To evaluate the effectiveness of your tests, use code coverage reports.
+
+## Metrics and maintainance:
+
+  - Examine measures like coupling, cyclomatic complexity, and lines of code.
+  - Use analytics to pinpoint areas that need reworking and improvement.
+  - Run code analysis programmes on a regular basis to spot problems early.
+  - For thorough quality assurance, combine code quality tools with a strong testing plan.
+  - include these tools for code quality into your development process.
+
 
